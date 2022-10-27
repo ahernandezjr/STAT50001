@@ -4,7 +4,7 @@
 #' date: "08/30/22"
 #' ---
 
-#' ## 1) Create the following vetors using rep function in R:
+#' ## 1) Create the following vectors using rep function in R:
 V1 = rep(c(1,2,3,4,5), 5)
 V2 = rep(c(1,2,3,4,5,6), each=4)
 V3 = rep(c(5,10,15,20,25), 1:5)

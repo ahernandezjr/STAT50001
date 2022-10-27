@@ -1,0 +1,11 @@
+Student                     Score		        hours
+Andrea			63				3
+Ben			79				11
+Randy			53				8
+Jamie			77				10
+Emily			89				13
+Darryl			66				5
+Joseph			64				4
+Eleanor		        91				14
+Jacob			71				5
+Sharon			74				9 
